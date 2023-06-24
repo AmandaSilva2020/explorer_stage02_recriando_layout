@@ -57,10 +57,7 @@ a + a {
   margin-left: 42px;
 }
 
-#footer img{
+#wave {
   width: 100%;
-
-  position: absolute;
-  bottom: 0;
-  left: 0;
+  margin-bottom: 0;
 }
